@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16e7abf0-1c2f-4a41-9961-02154c6f82b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1QTqtM2jhaAYmtJMtvhj6sl351W" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arbuthnottp\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\NOTWORK\new\images" />
+      <recent name="C:\Users\arbuthnottp\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\NOTWORK\new\pictures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arbuthnottp\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\NOTWORK\new" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.gallery.php">
+    <configuration name="gallery.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/new/dswork/gallery.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.gallery.php" />
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16e7abf0-1c2f-4a41-9961-02154c6f82b1" name="Default Changelist" comment="" />
+      <created>1567805147575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567805147575</updated>
+      <workItem from="1567805153913" duration="55000" />
+      <workItem from="1567805228882" duration="10699000" />
+      <workItem from="1567816876926" duration="16475000" />
+      <workItem from="1568018253953" duration="800000" />
+      <workItem from="1568163340169" duration="676000" />
+      <workItem from="1568201265794" duration="2149000" />
+      <workItem from="1568494918913" duration="25721000" />
+      <workItem from="1568834408437" duration="23551000" />
+      <workItem from="1569314960604" duration="599000" />
+      <workItem from="1569319581041" duration="8476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
